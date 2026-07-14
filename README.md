@@ -2,4 +2,4 @@
 this is my first repo
 <br>
 
-Author-Punya Prasun
+Author-Punya Prasun tripathy
